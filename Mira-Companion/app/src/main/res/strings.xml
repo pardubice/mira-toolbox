@@ -1,0 +1,19 @@
++<resources>
++    <string name="app_name">Mira Companion</string>
++    <string name="please_wait">Čekejte prosím...</string>
++    <string name="action_settings">Nastavení</string>
++    <string name="action_power_menu">Zavřít</string>
++    <string name="action_hostpot_menu">Povolit bezdrátový přístup Wi-Fi</string>
++    <string name="action_remote_menu">Dálkové ovládání</string>
++    <string name="action_debug_menu">Vývojář</string>
++    <string name="action_plugins_menu">Doplňky</string>
++
++    <string name="action_menu_main">Domů</string>
++    <string name="action_menu_store">Obchod</string>
++    <string name="action_menu_devices">Nástroje</string>
++    <string name="action_menu_plugins">Přílohy</string>
++    <string name="action_menu_downloads">Stahování</string>
++    <string name="action_menu_night_mode">Noční řežim</string>
++    <string name="no">Ne</string>
++    <string name="yes">Ano</string>
++</resources>
